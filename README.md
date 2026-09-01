@@ -1,5 +1,5 @@
 ## Hi there, I’m CJ 👋🏾
-🚀 Aspiring Full-Stack Engineer | 🎓 MIS Student (PUC '27) | ⚙️ Entrepreneur & Systems Builder  
+🚀 Aspiring Full-Stack Engineer | 🎓 MIS Student (PUC '30) | ⚙️ Entrepreneur & Systems Builder  
 I’m pivoting from business + digital marketing into **software engineering**. My background:  
 - Built digital marketing & ops workflows for automotive groups (BMW, Audi, VW).  
 - Experience with business systems (Rapid Recon, CRM tools, analytics dashboards).  
